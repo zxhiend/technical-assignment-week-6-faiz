@@ -1,4 +1,4 @@
-# technical-assignment-week-6-faiz
+# [technical-assignment-week-6-faiz](https://github.com/impactbyte/iot-with-python-technical-assignments/blob/main/06-IoT-Product-Planning/README.md)
 Repository for technical assignment week 6
 
 ## Pertanyaan & Jawaban
